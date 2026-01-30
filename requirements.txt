@@ -1,0 +1,13 @@
+streamlit
+faiss-cpu
+sentence-transformers
+transformers
+torch
+pillow
+pytesseract
+python-docx
+PyPDF2
+faster-whisper
+ffmpeg-python
+groq
+numpy
