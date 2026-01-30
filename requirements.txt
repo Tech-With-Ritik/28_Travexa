@@ -11,3 +11,7 @@ faster-whisper
 ffmpeg-python
 groq
 numpy
+dotenv
+pandas
+openpyxl
+xlrd
