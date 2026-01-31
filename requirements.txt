@@ -15,3 +15,8 @@ dotenv
 pandas
 openpyxl
 xlrd
+moviepy
+pyttsx3
+soundfile
+speechrecognition
+langdetect
